@@ -1,3 +1,5 @@
+# Leaving both WSL/macOS - So I can choose when using.
+
 git clone \
     https://github.com/vfarcic/devops-catalog-code.git
 
